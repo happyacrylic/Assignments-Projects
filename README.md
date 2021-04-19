@@ -1,7 +1,12 @@
-Here are some of the projects I've done in Unimelb, including:
+# COMP90041 - Assignment 1
 
-1.MySQL Workbench database design project
+This repository contains the skeleton code for the assignment 1 submission on GitHub.
 
-2.Network measurement and data analysis project
+Don't know about version control? Click [here](https://www.atlassian.com/git/tutorials/what-is-version-control).
 
-3.Java console drawing applet
+Need a refresher on GitHub? Click [here](https://guides.github.com/activities/hello-world/).
+
+This assignment is due on:
+10am (AEST), Monday April 19, 2021 (late-submission penalties apply).
+
+Also, make sure to fill in the authorship.txt file.
