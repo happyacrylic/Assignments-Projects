@@ -1,4 +1,4 @@
-##Here shows some of the assignments and projects I've done in Unimelb, including:##
+##Here shows some of the assignments and projects I've done in Unimelb, including:
 
 1. MySQL Workbench database design project
 
